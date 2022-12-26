@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5552432.chunk.css",
+    "main.js": "/static/js/main.b8129dd3.chunk.js",
+    "main.js.map": "/static/js/main.b8129dd3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.140c1feb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.140c1feb.js.map",
+    "static/css/2.3f221d08.chunk.css": "/static/css/2.3f221d08.chunk.css",
+    "static/js/2.01f26690.chunk.js": "/static/js/2.01f26690.chunk.js",
+    "static/js/2.01f26690.chunk.js.map": "/static/js/2.01f26690.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a6fd09cb5a4e67db0d3f41eff1e8b549.js": "/precache-manifest.a6fd09cb5a4e67db0d3f41eff1e8b549.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3f221d08.chunk.css.map": "/static/css/2.3f221d08.chunk.css.map",
+    "static/css/main.b5552432.chunk.css.map": "/static/css/main.b5552432.chunk.css.map",
+    "static/js/2.01f26690.chunk.js.LICENSE": "/static/js/2.01f26690.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/LoginBackround.6053baa2.jpg",
+    "static/media/istanbul.png": "/static/media/istanbul.0e57e683.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.140c1feb.js",
+    "static/css/2.3f221d08.chunk.css",
+    "static/js/2.01f26690.chunk.js",
+    "static/css/main.b5552432.chunk.css",
+    "static/js/main.b8129dd3.chunk.js"
+  ]
+}
